@@ -46,7 +46,7 @@
     "moment-timezone": "^0.5.23",
     "npm-watch": "^0.6.0",
     "optimize-css-assets-webpack-plugin": "5.0.1",
-    "parse-link-header": "^1.0.1",
+    "parse-link-header": "^2.0.0",
     "pnp-webpack-plugin": "1.1.0",
     "postcss-flexbugs-fixes": "4.1.0",
     "postcss-loader": "3.0.0",
