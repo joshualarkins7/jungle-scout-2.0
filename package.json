@@ -42,7 +42,7 @@
     "keo": "^5.2.0",
     "material-ui-popup-state": "^1.4.0",
     "mini-css-extract-plugin": "0.4.3",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "moment-timezone": "^0.5.23",
     "npm-watch": "^0.6.0",
     "optimize-css-assets-webpack-plugin": "5.0.1",
